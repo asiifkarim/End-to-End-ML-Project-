@@ -1,0 +1,4 @@
+x = "Asif"
+
+
+print(x)
